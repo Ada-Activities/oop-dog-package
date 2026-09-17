@@ -13,8 +13,6 @@ $ cd ~/Developer/projects
 
 2. In Github click on the green "Code" button in Github and then copy the URL. This will allow you to download a copy of this project into your projects folder. 
 
-![Cloning a repository in Github](images/cloning_a_repo.png)
-
 After copying the URL, run the following command in your terminal:
 
 ```
@@ -22,7 +20,7 @@ $ git clone <paste your copied URL here>
 ```
 This command makes a new folder called `oop-dog-package`, and then puts the project into this new folder. Use `ls` to confirm there's a new project folder
 
-3. Move your location into this project folder
+1. Move your location into this project folder
 
 ```bash
 $ cd oop-dog-package
